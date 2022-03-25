@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/12/12/javascript%E5%9F%BA%E7%A1%80%E7%AF%87/</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/03/25/%E5%B8%B8%E7%94%A8git%E5%91%BD%E4%BB%A4/</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2022/01/17/%E5%89%8D%E7%AB%AF%E7%94%9F%E6%88%90CHANGELOG%E6%8C%87%E5%8D%97/</loc>
     
     <lastmod>2022-03-17</lastmod>
@@ -173,15 +191,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/12/12/javascript%E5%9F%BA%E7%A1%80%E7%AF%87/</loc>
-    
-    <lastmod>2022-03-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/12/24/http%E8%AF%B7%E6%B1%82%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/</loc>
     
     <lastmod>2022-03-17</lastmod>
@@ -272,14 +281,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/js%E5%9F%BA%E7%A1%80/</loc>
+    <loc>http://example.com/tags/css/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/css/</loc>
+    <loc>http://example.com/tags/js%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -356,6 +365,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/git/</loc>
+    <lastmod>2022-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -414,14 +430,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/js/</loc>
+    <loc>http://example.com/categories/css/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/css/</loc>
+    <loc>http://example.com/categories/js/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
